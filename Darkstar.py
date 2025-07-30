@@ -1,2 +1,2 @@
-import Darkstar_pro
-Darkstar_pro.main()
+import Darkclone
+Darkckone.main()
