@@ -1,0 +1,8 @@
+requests
+pyfiglet
+colorama
+rich
+beautifulsoup4
+lxml
+html5lib
+certifi
