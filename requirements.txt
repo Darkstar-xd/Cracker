@@ -1,5 +1,9 @@
-requests
 pyfiglet
+colorama
+requests
+rich
+termcolor
+tqdm
 colorama
 rich
 beautifulsoup4
